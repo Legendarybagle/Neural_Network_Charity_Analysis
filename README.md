@@ -5,7 +5,7 @@ With machine learning and neural networks, use the features in the provided data
 
 ## Results
 * Data Processing
-** the 'STATUS' variable was the target for the machine learning algortithm.
-** every other value was used as a feature except for "NAME" and "EIN" which were dropped as they were unique idetifiers and thus entirely useless for the algorithm.
+* * the 'STATUS' variable was the target for the machine learning algortithm.
+* * every other value was used as a feature except for "NAME" and "EIN" which were dropped as they were unique idetifiers and thus entirely useless for the algorithm.
 * Compiling, Training, and Evaluating the Model
 * * soghetti
